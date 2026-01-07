@@ -284,10 +284,10 @@ You can build them by using the following commands:
     open the command prompt used for the build with the "Run as administrator"
     option.
 
- 3. Configure the code signing service
+ 3. Configure the code signing erdal.smartlibrary.service
 
     ASF committers performing official releases will need to configure the code
-    signing service so that the Windows installer is signed during the build
+    signing erdal.smartlibrary.service so that the Windows installer is signed during the build
     process. The following properties need to be added to the build.properties
     file:
 

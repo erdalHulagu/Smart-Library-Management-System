@@ -488,7 +488,7 @@
 <!--
 
   The "remove" target tells the specified Tomcat installation to dynamically
-  remove this web application from service.
+  remove this web application from erdal.smartlibrary.service.
 
   NOTE:  This is the logical opposite of the "install" target.
 

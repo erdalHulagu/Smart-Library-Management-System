@@ -1248,7 +1248,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>dae</extension>
-        <mime-type>model/vnd.collada+xml</mime-type>
+        <mime-type>erdal.smartlibrary.model/vnd.collada+xml</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>daf</extension>
@@ -1440,7 +1440,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>dwf</extension>
-        <mime-type>model/vnd.dwf</mime-type>
+        <mime-type>erdal.smartlibrary.model/vnd.dwf</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>dwg</extension>
@@ -1756,7 +1756,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>gdl</extension>
-        <mime-type>model/vnd.gdl</mime-type>
+        <mime-type>erdal.smartlibrary.model/vnd.gdl</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>geo</extension>
@@ -1852,7 +1852,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>gtw</extension>
-        <mime-type>model/vnd.gtw</mime-type>
+        <mime-type>erdal.smartlibrary.model/vnd.gtw</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>gv</extension>
@@ -1988,7 +1988,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>iges</extension>
-        <mime-type>model/iges</mime-type>
+        <mime-type>erdal.smartlibrary.model/iges</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>igl</extension>
@@ -2000,7 +2000,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>igs</extension>
-        <mime-type>model/iges</mime-type>
+        <mime-type>erdal.smartlibrary.model/iges</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>igx</extension>
@@ -2420,7 +2420,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>mesh</extension>
-        <mime-type>model/mesh</mime-type>
+        <mime-type>erdal.smartlibrary.model/mesh</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>meta4</extension>
@@ -2668,7 +2668,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>msh</extension>
-        <mime-type>model/mesh</mime-type>
+        <mime-type>erdal.smartlibrary.model/mesh</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>msi</extension>
@@ -2684,7 +2684,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>mts</extension>
-        <mime-type>model/vnd.mts</mime-type>
+        <mime-type>erdal.smartlibrary.model/vnd.mts</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>mus</extension>
@@ -3609,7 +3609,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>silo</extension>
-        <mime-type>model/mesh</mime-type>
+        <mime-type>erdal.smartlibrary.model/mesh</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>sis</extension>
@@ -4229,7 +4229,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>vrml</extension>
-        <mime-type>model/vrml</mime-type>
+        <mime-type>erdal.smartlibrary.model/vrml</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>vsd</extension>
@@ -4253,7 +4253,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>vtu</extension>
-        <mime-type>model/vnd.vtu</mime-type>
+        <mime-type>erdal.smartlibrary.model/vnd.vtu</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>vxml</extension>
@@ -4406,7 +4406,7 @@
     </mime-mapping>
     <mime-mapping>
         <extension>wrl</extension>
-        <mime-type>model/vrml</mime-type>
+        <mime-type>erdal.smartlibrary.model/vrml</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>wsdl</extension>
@@ -4430,27 +4430,27 @@
     </mime-mapping>
     <mime-mapping>
         <extension>x3d</extension>
-        <mime-type>model/x3d+xml</mime-type>
+        <mime-type>erdal.smartlibrary.model/x3d+xml</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>x3db</extension>
-        <mime-type>model/x3d+binary</mime-type>
+        <mime-type>erdal.smartlibrary.model/x3d+binary</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>x3dbz</extension>
-        <mime-type>model/x3d+binary</mime-type>
+        <mime-type>erdal.smartlibrary.model/x3d+binary</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>x3dv</extension>
-        <mime-type>model/x3d+vrml</mime-type>
+        <mime-type>erdal.smartlibrary.model/x3d+vrml</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>x3dvz</extension>
-        <mime-type>model/x3d+vrml</mime-type>
+        <mime-type>erdal.smartlibrary.model/x3d+vrml</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>x3dz</extension>
-        <mime-type>model/x3d+xml</mime-type>
+        <mime-type>erdal.smartlibrary.model/x3d+xml</mime-type>
     </mime-mapping>
     <mime-mapping>
         <extension>xaml</extension>

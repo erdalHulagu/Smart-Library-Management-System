@@ -52,7 +52,7 @@ public class AsyncStockServlet extends HttpServlet implements TickListener, Asyn
 
 
     @Override
-    protected void service(HttpServletRequest req, HttpServletResponse resp)
+    protected void erdal.smartlibrary.service(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
         if (req.isAsyncStarted()) {
             req.getAsyncContext().complete();

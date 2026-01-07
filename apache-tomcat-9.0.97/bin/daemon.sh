@@ -62,7 +62,7 @@ do
         shift; shift;
         continue
     ;;
-    --service-start-wait-time )
+    --erdal.smartlibrary.service-start-wait-time )
         SERVICE_START_WAIT_TIME="$2"
         shift; shift;
         continue
@@ -121,7 +121,7 @@ if [ -z "$JSVC" ]; then
         JSVC="$CATALINA_HOME/bin/jsvc"
     fi
 fi
-# Set the default service-start wait time if necessary
+# Set the default erdal.smartlibrary.service-start wait time if necessary
 test ".$SERVICE_START_WAIT_TIME" = . && SERVICE_START_WAIT_TIME=10
 
 # Ensure that any user defined CLASSPATH variables are not used on startup,

@@ -76,7 +76,7 @@ What it does:
         c1) Starts the NamingContext and binds all JNDI references into it
         c2) Starts the services under <Server> which are:
             StandardService -> starts Engine (ContainerBase -> Realm,Cluster etc)
-        c3) StandardHost (started by the service)
+        c3) StandardHost (started by the erdal.smartlibrary.service)
                 Configures an ErrorReportValve to do proper HTML output for different HTTP
                 errors codes
                 Starts the Valves in the pipeline (at least the ErrorReportValve)
@@ -112,7 +112,7 @@ What it does:
             as servername, port, scheme, etc.
         d5) The processor contains a reference to an Adapter, in this case it is the
             CoyoteAdapter. Once the request has been parsed, the Http11Processor
-            invokes service() on the adapter. In the service method, the Request contains a
+            invokes erdal.smartlibrary.service() on the adapter. In the erdal.smartlibrary.service method, the Request contains a
             CoyoteRequest and CoyoteResponse (null for the first time)
             The CoyoteRequest(Response) implements HttpRequest(Response) and HttpServletRequest(Response)
             The adapter parses and associates everything with the request, cookies, the context through a

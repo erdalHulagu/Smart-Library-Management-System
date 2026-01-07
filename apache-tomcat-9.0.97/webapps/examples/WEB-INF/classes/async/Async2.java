@@ -36,7 +36,7 @@ public class Async2 extends HttpServlet {
     private static final Log log = LogFactory.getLog(Async2.class);
 
     @Override
-    protected void service(HttpServletRequest req, HttpServletResponse resp)
+    protected void erdal.smartlibrary.service(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
         final AsyncContext actx = req.startAsync();
         actx.setTimeout(30*1000);
